@@ -3,7 +3,7 @@ public class Metoder {
     
     static int randomTall(){
 
-        return (int)(Math.random() * 101) + 1;
+        return (int)(Math.random() * 100) + 1;
 
     }
 }
