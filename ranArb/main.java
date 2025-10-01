@@ -22,7 +22,7 @@ public class main {
                     antalGissningar++;
 
                     System.out.println(y > x ? "mindre, testa en gång till"
-                            : y < x ? "Större, testa en gång till" : "Rätt bra jobbat.");
+                            : y < x ? "Större, testa en gång till" : "Rätt! Bra jobbat.");
                 } else {
                     System.out.println("Ogiltig inmatning, skriv in ett heltal.");
                     scanner.next();
